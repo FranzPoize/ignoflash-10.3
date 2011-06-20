@@ -3,6 +3,8 @@ IgnoFlash Changelog
 
 next
 -------
+Added patch for Flash Player v10.3.181.26 32-Bit Linux (Eric Moody)
+--------------------
 Disabled automatic resize for path text box.
 Add routines to determine the flash file version either by header or by hash.
 Automatically determine which patches are needed for the current file and apply only those.
