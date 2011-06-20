@@ -1,0 +1,7 @@
+mac support
+detect whether a program has locked the flash file
+program icon
+flash 10.2 beta
+64-bit flash square
+get file modification time for linux
+pe checksum update on linux

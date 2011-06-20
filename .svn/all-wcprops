@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/233/ignoflash/trunk
+END
+ignoflash.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/183/ignoflash/trunk/ignoflash.manifest
+END
+dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/233/ignoflash/trunk/dialog.cpp
+END
+patch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/232/ignoflash/trunk/patch.cpp
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/230/ignoflash/trunk/utils.cpp
+END
+dialog.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/124/ignoflash/trunk/dialog.qrc
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/228/ignoflash/trunk/todo.txt
+END
+activex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/225/ignoflash/trunk/activex.cpp
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/226/ignoflash/trunk/dialog.h
+END
+patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/232/ignoflash/trunk/patch.h
+END
+backup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/176/ignoflash/trunk/backup.cpp
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/230/ignoflash/trunk/utils.h
+END
+detect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/188/ignoflash/trunk/detect.cpp
+END
+activex.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/226/ignoflash/trunk/activex.h
+END
+backup.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/135/ignoflash/trunk/backup.h
+END
+detect.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/130/ignoflash/trunk/detect.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/126/ignoflash/trunk/main.cpp
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/227/ignoflash/trunk/changelog.txt
+END
+netscape_win32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/225/ignoflash/trunk/netscape_win32.cpp
+END
+netscape_linux32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/225/ignoflash/trunk/netscape_linux32.cpp
+END
+netscape_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/226/ignoflash/trunk/netscape_win32.h
+END
+dialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/222/ignoflash/trunk/dialog.ui
+END
+netscape_linux32.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/226/ignoflash/trunk/netscape_linux32.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/223/ignoflash/trunk/CMakeLists.txt
+END

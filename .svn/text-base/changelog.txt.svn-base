@@ -1,0 +1,49 @@
+IgnoFlash Changelog
+======================
+
+next
+-------
+Disabled automatic resize for path text box.
+Add routines to determine the flash file version either by header or by hash.
+Automatically determine which patches are needed for the current file and apply only those.
+Unify the filename filter. Linux plugins can be patched in Windows but not the other way around.
+
+1.4.0, 2010-12-06
+--------------------
+Make failure to remove the ACLs a warning instead of an error. This should fix patching on FAT partitions.
+Require highest available privileges when running with UAC enabled.
+Fixed compilation using gcc (Kevin Crossan)
+Added patch for Flash Player v10.1.102 32-Bit Linux (Kevin Crossan)
+
+1.3.1, 2010-09-09
+--------------------
+This release can detect when Flash was updated and allows you to repatch without having to restore, reinstall and patch.
+
+1.3.0, 2010-06-17
+--------------------
+Google Chrome support
+
+1.2.2, 2010-06-16
+--------------------
+Improved path detection
+
+1.2.1, 2010-06-16
+--------------------
+Seperate ActiveX 10.1 patch is not needed
+Made the window bigger at startup
+Success notification added
+
+1.2.0, 2010-06-16
+--------------------
+Fixed problem with ActiveX backup
+Flash 10.1 support
+
+1.1.0, 2010-06-16
+--------------------
+Added Qt based GUI.
+Reliable backup/restore.
+Needs Visual C++ 2008 runtime.
+
+1.0.0, 2010-05-11
+--------------------
+Initial version
