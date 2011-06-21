@@ -247,10 +247,7 @@ gfv_exit:
          * Method to get the linux flash player version without running it:
          * strings libflashplayer.so | grep LNX
          */
-        vertable.insert(QByteArray("\x8a\x10\xf0\x63\x21\x52\x19\xa9\x8f\x7d\xbe\x6d\xd3\x36\x67\x1e", 16), fileversion( 10, 1, 102, 65, fileversion::Linux32 ));
-        vertable.insert(QByteArray("\xb9\x95\xbf\x05\xfc\x10\x56\x8c\x06\xd3\x0b\x0d\x5d\x59\xab\xa1", 16), fileversion( 10, 2, 151, 49, fileversion::Linux32 ));
         vertable.insert(QByteArray("\x3d\x13\xa0\x70\x9b\x9a\x93\x7a\xa0\xd2\x88\x83\xb4\x6d\xeb\xb9", 16), fileversion( 10, 3, 181, 26, fileversion::Linux32 ));
-        vertable.insert(QByteArray("\x26\x7b\xfd\xb3\x8d\x14\xc9\xd9\x6d\x0d\x04\xe2\x73\xc3\xd9\x61", 16), fileversion( 10, 3, 162, 29, fileversion::Linux64 ));
         vertable_inited = true;
       }
 
