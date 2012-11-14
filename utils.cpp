@@ -248,6 +248,7 @@ gfv_exit:
          * strings libflashplayer.so | grep LNX
          */
         vertable.insert(QByteArray("\x3d\x13\xa0\x70\x9b\x9a\x93\x7a\xa0\xd2\x88\x83\xb4\x6d\xeb\xb9", 16), fileversion( 10, 3, 181, 26, fileversion::Linux32 ));
+        vertable.insert(QByteArray("\x80\xad\x06\x4c\x0c\x90\x25\xd0\x4c\xdc\x2f\xfc\xc6\x7f\x59\x9e", 16), fileversion( 11, 1, 102, 55, fileversion::Linux64 ));
         vertable_inited = true;
       }
 
